@@ -1,0 +1,3 @@
+[submodule "Base-RAG"]
+	path = Base-RAG
+	url = git@github.com:NilaAkbari/Base-RAG.git
