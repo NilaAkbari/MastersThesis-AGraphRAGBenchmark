@@ -1,3 +1,6 @@
 [submodule "Base-RAG"]
 	path = Base-RAG
 	url = git@github.com:NilaAkbari/Base-RAG.git
+[submodule "FromLocalToGlobalGraphRAG"]
+	path = FromLocalToGlobalGraphRAG
+	url = git@github.com:NilaAkbari/MastersThesis-FromLocalToGlobalGraphRAG.git
