@@ -4,3 +4,6 @@
 [submodule "FromLocalToGlobalGraphRAG"]
 	path = FromLocalToGlobalGraphRAG
 	url = git@github.com:NilaAkbari/MastersThesis-FromLocalToGlobalGraphRAG.git
+[submodule "StructRAG"]
+	path = StructRAG
+	url = git@github.com:NilaAkbari/StructRAGThesis.git
