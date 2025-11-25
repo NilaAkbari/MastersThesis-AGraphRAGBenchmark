@@ -40,8 +40,6 @@ MastersThesis-AGraphRAGBenchmark/
 │   ├── UltraDomainCS/
 │   └── NarrativeQA/
 ├── evaluation/                       # Evaluation Scripts (LLM-as-a-Judge)
-├── shared_services/                  # Shared Microservices
-│   └── embedding_proxy/              # [Env A] Custom Embedding Bridge (Python 3.12)
 ├── frameworks/                       # Core Implementations
 │   ├── GraphRAG/                # [Env B] Microsoft GraphRAG (Python 3.10)
 │   ├── LightRAG/                # [Env A] LightRAG Implementation
